@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      discovery:
+        serviceId: config-server
+        enabled: true
+      profile: dev
+      label: master
+
