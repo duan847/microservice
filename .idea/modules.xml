@@ -7,7 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/microservice-config-server/microservice-config-server.iml" filepath="$PROJECT_DIR$/microservice-config-server/microservice-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-eureka-client/microservice-eureka-client.iml" filepath="$PROJECT_DIR$/microservice-eureka-client/microservice-eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-eureka-server/microservice-eureka-server.iml" filepath="$PROJECT_DIR$/microservice-eureka-server/microservice-eureka-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/microservice-serice-feign/microservice-serice-feign.iml" filepath="$PROJECT_DIR$/microservice-serice-feign/microservice-serice-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-service-feign/microservice-service-feign.iml" filepath="$PROJECT_DIR$/microservice-service-feign/microservice-service-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-service-ribbon/microservice-service-ribbon.iml" filepath="$PROJECT_DIR$/microservice-service-ribbon/microservice-service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-service-zuul/microservice-service-zuul.iml" filepath="$PROJECT_DIR$/microservice-service-zuul/microservice-service-zuul.iml" />
     </modules>

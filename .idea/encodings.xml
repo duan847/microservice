@@ -5,7 +5,7 @@
     <file url="file://$PROJECT_DIR$/microservice-config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-eureka-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-eureka-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/microservice-serice-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-service-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-service-ribbon" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-service-zuul" charset="UTF-8" />
   </component>

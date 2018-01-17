@@ -11,9 +11,14 @@
         <module name="microservice-config-server" />
         <module name="microservice-eureka-client" />
         <module name="microservice-eureka-server" />
-        <module name="microservice-serice-feign" />
         <module name="microservice-service-ribbon" />
         <module name="microservice-service-zuul" />
+      </profile>
+      <profile name="Annotation profile for microservice-service-feign" enabled="true">
+        <sourceOutputDir name="../microservice-serice-feign/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../microservice-serice-feign/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-serice-feign" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

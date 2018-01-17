@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.duan.microservice</groupId>
-	<artifactId>microservice-serice-feign</artifactId>
+	<artifactId>microservice-service-feign</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>microservice-serice-feign</name>
+	<name>microservice-service-feign</name>
 	<description></description>
 
 	<parent>
