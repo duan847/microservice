@@ -11,7 +11,15 @@
         <option value="$PROJECT_DIR$/microservice-service-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-stream-rabbit/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-stream-rabbit-in/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-stream-rabbit-out/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/microservice-stream-rabbit/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">

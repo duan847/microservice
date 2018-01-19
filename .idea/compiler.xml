@@ -6,13 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="microservice" />
+        <module name="microservice-common" />
         <module name="microservice-config-client" />
         <module name="microservice-config-server" />
         <module name="microservice-eureka-client" />
         <module name="microservice-eureka-server" />
         <module name="microservice-service-ribbon" />
         <module name="microservice-service-zuul" />
+        <module name="microservice-stream-rabbit-in" />
+        <module name="microservice-stream-rabbit-out" />
       </profile>
       <profile name="Annotation profile for microservice-service-feign" enabled="true">
         <sourceOutputDir name="../microservice-serice-feign/target/generated-sources/annotations" />
@@ -22,7 +24,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="microservice" target="1.5" />
+      <module name="demo" target="1.8" />
+      <module name="microservice" target="1.8" />
+      <module name="microservice-common" target="1.8" />
       <module name="microservice-config-client" target="1.8" />
       <module name="microservice-config-server" target="1.8" />
       <module name="microservice-eureka-client" target="1.8" />
@@ -30,6 +34,9 @@
       <module name="microservice-serice-feign" target="1.8" />
       <module name="microservice-service-ribbon" target="1.8" />
       <module name="microservice-service-zuul" target="1.8" />
+      <module name="microservice-stream-rabbit" target="1.8" />
+      <module name="microservice-stream-rabbit-in" target="1.8" />
+      <module name="microservice-stream-rabbit-out" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

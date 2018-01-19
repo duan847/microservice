@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/microservice.iml" filepath="$PROJECT_DIR$/microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-common/microservice-common.iml" filepath="$PROJECT_DIR$/microservice-common/microservice-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-config-client/microservice-config-client.iml" filepath="$PROJECT_DIR$/microservice-config-client/microservice-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-config-server/microservice-config-server.iml" filepath="$PROJECT_DIR$/microservice-config-server/microservice-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-eureka-client/microservice-eureka-client.iml" filepath="$PROJECT_DIR$/microservice-eureka-client/microservice-eureka-client.iml" />
@@ -10,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/microservice-service-feign/microservice-service-feign.iml" filepath="$PROJECT_DIR$/microservice-service-feign/microservice-service-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-service-ribbon/microservice-service-ribbon.iml" filepath="$PROJECT_DIR$/microservice-service-ribbon/microservice-service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-service-zuul/microservice-service-zuul.iml" filepath="$PROJECT_DIR$/microservice-service-zuul/microservice-service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-stream-rabbit-in/microservice-stream-rabbit-in.iml" filepath="$PROJECT_DIR$/microservice-stream-rabbit-in/microservice-stream-rabbit-in.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-stream-rabbit-out/microservice-stream-rabbit-out.iml" filepath="$PROJECT_DIR$/microservice-stream-rabbit-out/microservice-stream-rabbit-out.iml" />
     </modules>
   </component>
 </project>
